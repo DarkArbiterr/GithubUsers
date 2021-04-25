@@ -4,7 +4,7 @@ Instrukcja uruchomienia:
 
 	1. Uruchomić terminal
 	2. Przejść do katalogu allegro_zad2-master
-	3. W terminalu uruchomić komendę "npm start"
+	3. W terminalu uruchomić komendę "npm install" i "npm start"
 	4. Strona internetowa uruchomi się od razu, będzie działać na porcie 3000
 
 Założenia:
