@@ -1,6 +1,6 @@
 # GithubUsers - Listing użytkowników Githuba.
 
-Strona internetowa napisana w języku **JavaScript** i **Java** wyświetlająca listę repozytoriów danego użytkownika.
+Strona internetowa napisana w języku **JavaScript** wyświetlająca listę repozytoriów danego użytkownika.
 Do stworzenia strony korzystano z **node.js** i **React**.
 
 ## Instrukcja uruchomienia:
